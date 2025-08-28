@@ -1,1 +1,1 @@
-This is another file we have added.
+This is another file we have added called file2.txt
